@@ -1,0 +1,15 @@
+.popup-overlay {
+    background-color: #00000060;
+  }
+  
+  .popup-content {
+    width: 30%;
+    border-radius: 10px;
+  }
+  
+  @media screen and (max-width: 768px) {
+    .popup-content {
+      width: 85%;
+    }
+  }
+  
