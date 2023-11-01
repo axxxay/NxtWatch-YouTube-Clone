@@ -328,7 +328,7 @@ export const BottomNavBar = styled.div`
     display: flex;
     justify-content: space-around;
     align-items: center;
-    position: absolute;
+    position: sticky;
     bottom: 0px;
     width: 100%;
     height: 8vh;
